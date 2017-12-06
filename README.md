@@ -1,7 +1,12 @@
-# graphic-chart
+<img src="https://raw.githubusercontent.com/ShortGG/graphic-chart/master/logo.png" alt="logo-short-gg" width="25%" align="right" />
+
+<br />
+
+# graphic chart of short.gg
 
 
-## Font
+<hr />
 
-1st : https://fonts.google.com/specimen/Pacifico (h)
-2nd : https://fonts.google.com/specimen/Lato light  (text, p)
+# Palette
+
+<img src="./palette.png" />
